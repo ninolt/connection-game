@@ -48,7 +48,7 @@ You can run this notebook directly in [Google Colab](https://colab.research.goog
 
 **Step 3 :** Click on the `main.ipynb` file in order to open the project
 
-## Using uv
+### Using uv
 
 [`uv`](https://github.com/astral-sh/uv) is a fast Python package manager designed for reproducible environments. It will automatically create and manage an isolated environment for you.
 
@@ -72,7 +72,7 @@ uv run jupyter notebook
 
 **Step 3 :** Double-click on the `main.ipynb` file when the Jupyter web page has been opened in your browser.
 
-## Using `pip`
+### Using `pip`
 
 **Step 1 :** Ensure you have **Python 3.13** or higher installed :
 
